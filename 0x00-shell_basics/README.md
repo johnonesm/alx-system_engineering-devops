@@ -1,1 +1,1 @@
-my dir readme
+print working directory
