@@ -1,2 +1,2 @@
 #!/bin/bash
-chmoid -R a+X .
+chmoid +X .
