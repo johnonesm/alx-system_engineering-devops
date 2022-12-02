@@ -1,2 +1,2 @@
 #!/bn/bash
-ls -al .
+ls -al
