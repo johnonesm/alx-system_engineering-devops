@@ -1,2 +1,2 @@
 #!/bin/bash
-file --magic-file=magic schooldata
+file --magic-file=magic school.mgc *
