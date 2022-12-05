@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -3 iacta
+sed '3q' iacta
